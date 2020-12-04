@@ -1,0 +1,6 @@
+[submodule "DAIN"]
+	path = DAIN
+	url = https://github.com/baowenbo/DAIN.git
+[submodule "TecoGAN"]
+	path = TecoGAN
+	url = https://github.com/thunil/TecoGAN.git
