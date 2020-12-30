@@ -1,0 +1,13 @@
+TecoGAN
+temp
+env
+env-rife
+arXiv2020-RIFE
+.vscode
+__pycache__
+batch
+frames
+input
+model
+outputs
+*.mp4
